@@ -18,7 +18,7 @@ class LstCom:
 
 
 if __name__ == "__main__":
-    l1 = ['AdDynamicTextPerformanceReportRequest', 'AdExtensionByAdReportRequest', 'AdExtensionByKeywordReportRequest',
+    list1 = ['AdDynamicTextPerformanceReportRequest', 'AdExtensionByAdReportRequest', 'AdExtensionByKeywordReportRequest',
           'AdExtensionDetailReportRequest', 'AdGroupPerformanceReportRequest', 'AdPerformanceReportRequest',
           'AgeGenderDemographicReportRequest', 'AudiencePerformanceReportRequest', 'BudgetSummaryReportRequest',
           'CallDetailReportRequest', 'CampaignPerformanceReportRequest', 'ConversionPerformanceReportRequest',
@@ -27,10 +27,10 @@ if __name__ == "__main__":
           'ProductDimensionPerformanceReportRequest', 'SearchCampaignChangeHistoryReportRequest',
           'SearchQueryPerformanceReportRequest', 'ShareOfVoiceReportRequest', 'UserLocationPerformanceReportRequest']
 
-    l2 = ['AdExtensionByAd_Report', 'AdExtensionByKeyword_Report', 'AdExtensionDetail_Report',
+    list2 = ['AdExtensionByAd_Report', 'AdExtensionByKeyword_Report', 'AdExtensionDetail_Report',
           'AgeGenderDemographic_Report', 'AudiencePerformance_Report', 'BudgetSummary_Report',
           'CallDetail_Report', 'ConversionPerformance_Report', 'GeographicPerformance_Report',
           'GoalsAndFunnels_Report', 'PublisherUsagePerformance_Report', 'SearchCampaignChangeHistory_Report',
           'SearchQueryPerformance_Report', 'ShareOfVoice_Report', 'UserLocationPerformance_Report']
-    lst = LstCom(l1, l2)
+    lst = LstCom(list1, list2)
     lst.cmp()

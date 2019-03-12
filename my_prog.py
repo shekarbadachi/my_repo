@@ -7,7 +7,7 @@ class LstCom:
         self.lst2 = lst2
 
     def cmp(self):
-        print "from first list"
+        print "from the first list"
         for ele in self.lst1:
             e = re.sub("ReportRequest", "", ele)
             print e

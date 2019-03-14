@@ -1,5 +1,5 @@
 # Python files
-Python code to understand the working of map, lambda and Filter.
+Python code to understand the working of Map, Lambda and Filter.
 Download [Python here](http://python.com).
 
 ## Geting started

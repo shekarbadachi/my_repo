@@ -6,6 +6,6 @@ Download [Python here](http://python.com).
 **pre-requisites:**
 - __Python 2.7 IDE__
 - **Windows 7 or later**
-- ~~internet connection~~
+- ~~internet connection~~ :-1:
 
 > Contributed by shekar
